@@ -16,10 +16,10 @@ from aiofiles import open as aiopen
 
 # Здесь нужно заменить параметры на свои
 DB_CONFIG = {
-    'host': 'db4.myarena.ru',
-    'user': 'u24939_universe',
-    'password': 'Dbnz02082004',
-    'db': 'u24939_universe',
+    'host': '',
+    'user': '',
+    'password': '',
+    'db': '',
 }
 
 pointer = lambda username: {
